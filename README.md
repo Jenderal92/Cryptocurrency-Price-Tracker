@@ -1,5 +1,8 @@
 # Cryptocurrency Price Tracker
 
+![Cryptocurrency-Price-Tracker Jenderal92](https://github.com/user-attachments/assets/244dfcc7-0484-43b0-961f-53e1b59e0c0c)
+
+
 ### **Tool Description**
 This bot is a cryptocurrency price tracker that can:
 - Fetch real-time cryptocurrency prices.
